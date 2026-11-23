@@ -119,29 +119,6 @@ Plataforma que analiza tráfico, clima e incidentes viales, y **predice congesti
 
 **[→ Repositorio](https://github.com/EduarJIM/MoviliData)**
 
-### 🐾 Diagnostical Pets — Triaje Veterinario
-
-Misma lógica de dominio en dos frentes: **web en React** y **app de escritorio en C# WinForms**, ambas sin backend.
-
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![C#](https://img.shields.io/badge/C%23_WinForms-239120?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-<details>
-<summary><b>Ver detalle técnico</b></summary>
-
-- Evaluación interactiva de síntomas por categorías: general, respiratorio, digestivo y neurológico.
-- Resultados con nivel de urgencia, implicaciones clínicas y primeros auxilios sugeridos.
-- Gestión de perfiles clínicos: vacunas, veterinario, historial y seguimiento de consultas.
-- Versión de escritorio **standalone** en .NET 10 con controles GDI+ personalizados, tema claro/oscuro y persistencia local.
-- Pruebas unitarias del dominio ejecutables con `dotnet test`.
-
-</details>
-
-**[→ Repositorio](https://github.com/EduarJIM/Diagnostical-Pets)**
-
 ### 📋 api-edi — API REST & Panel de Tareas
 
 API REST y panel web para gestión de tareas, **contenerizada con Docker y desplegada en Render**.
