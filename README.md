@@ -141,11 +141,29 @@ API REST y panel web para gestión de tareas, **contenerizada con Docker y despl
 
 **[→ Repositorio](https://github.com/EduarJIM/api-edi)** · **[→ Demo en vivo](https://api-edi-iqx3.onrender.com)**
 
----
+### 🐕 spa-canino-kuky-pets — Web de spa canino
 
-## 📂 Otros repositorios
+Prototipo web para un spa canino construido con **PHP, HTML, CSS y JavaScript**, con vistas, panel *dashboard* y módulo de servicios. Basado en el trabajo de [@michelbarros178-dot](https://github.com/michelbarros178-dot).
 
-- **[spa-canino-kuky-pets](https://github.com/EduarJIM/spa-canino-kuky-pets)** — Gestión de spa canino: CRUD, agendamiento, historiales y reportes. *Colaboración sobre un fork de [@michelbarros178-dot](https://github.com/michelbarros178-dot).* · `React` `Supabase`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+<details>
+<summary><b>Ver detalle técnico</b></summary>
+
+- Estructura MVC en PHP: controladores, modelos y vistas dentro de `Maquetacion Pagina web Kuky Pets/`.
+- Panel de administración (`dashboard`) con assets, controladores y modelos propios.
+- Módulo de servicios, documentación y maquetación adaptable con CSS/SCSS.
+- Proyecto colaborativo que conserva el crédito al autor de la base original.
+
+</details>
+
+**[→ Repositorio](https://github.com/EduarJIM/spa-canino-kuky-pets)**
+
+> La versión web original de **Diagnostical Pets** ya no está disponible públicamente. Su lógica de triaje se conserva y amplía en **Diagnostica tus Mascotas**.
 
 ---
 
