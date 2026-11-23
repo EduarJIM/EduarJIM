@@ -47,6 +47,30 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO)** y **Full Stack Devel
 
 ## 🚀 Proyectos destacados
 
+### 🩺 Diagnostica tus Mascotas — Triaje en escritorio
+
+Aplicación **standalone de Windows Forms + .NET 10** con el dominio de triaje veterinario llevado a escritorio: 20 síntomas, 3 niveles de urgencia, SQLite local y **30 pruebas xUnit**. Incluye documentación arquitectónica completa con 5 diagramas Mermaid.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
+![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/Windows_Forms-0078D6?style=flat-square&logo=windows&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit_30_tests-22C55E?style=flat-square)
+![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
+<details>
+<summary><b>Ver detalle técnico</b></summary>
+
+- **Motor de triaje determinista y explicable:** pesos 1/2/3, regla especial *vómitos + diarrea* e implicaciones clínicas por síntoma.
+- **Dominio desacoplado:** la capa `Core` no depende de la UI; la interfaz se dibuja con GDI+ y tiene tema claro/oscuro con animaciones propias.
+- **Persistencia local:** mascotas, consultas, síntomas, recordatorios y preferencias en un único archivo SQLite en `%AppData%`.
+- **Documentación como producto:** 5 diagramas Mermaid (contexto C4, clases, secuencia, estados y entidad-relación), ADR, guía de usuario, referencia de API y DDL.
+- **Calidad:** 30 pruebas unitarias, CI que compila, ejecuta pruebas, recoge cobertura y audita dependencias.
+
+</details>
+
+**[→ Repositorio](https://github.com/EduarJIM/DiagnosticaTusMascotas)** · **[→ Documentación](https://github.com/EduarJIM/DiagnosticaTusMascotas/blob/main/docs/INDICE.md)**
+
 ### ⚡ Memphis — Agenda & Task Ops Management System
 
 Consola táctica de agenda con **4 portales independientes**, motor de dominio inmutable y 5 reglas de negocio validadas en vivo.
