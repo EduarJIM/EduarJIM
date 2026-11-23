@@ -23,10 +23,11 @@
 
 ## 👤 Sobre mí
 
-Tecnólogo en **Análisis y Desarrollo de Software (ADSO)** y **Full Stack Developer**. Diseño y construyo soluciones que resuelven problemas reales de negocio, desde el modelo de dominio hasta el despliegue.
+Tecnólogo en **Análisis y Desarrollo de Software (ADSO)** y **Full Stack Developer**. Construyo soluciones web y de escritorio con reglas de negocio explícitas, dominio aislado de la interfaz y pruebas automatizadas: del modelo al despliegue.
 
-- **Enfoque:** reglas de negocio explícitas y testeables antes que interfaces bonitas. DDD, Clean Architecture y SOLID.
-- **Full stack:** interfaces dinámicas en React + TypeScript; APIs y backends en Python (Django / Flask), Node.js y C#.
+- **Enfoque:** reglas de negocio testeables antes que interfaces bonitas. DDD, Clean Architecture y SOLID aplicados de forma práctica.
+- **Full stack:** interfaces en React + TypeScript; APIs y backends en Python (Django / Flask), Node.js y C# / .NET para escritorio.
+- **Dominio explicable:** el mismo triaje veterinario en React y en WinForms, con documentación arquitectónica, diagramas Mermaid y 30 pruebas unitarias.
 - **Buscando:** un equipo ágil donde aportar en producto y seguir creciendo como ingeniero.
 
 ## 🧰 Stack
