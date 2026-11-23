@@ -35,13 +35,13 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO)** y **Full Stack Devel
 | Área | Tecnologías |
 | :-- | :-- |
 | 🎨 Frontend | `React` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3` `Vite` |
-| ⚙️ Backend | `Python` `Django` `Flask` `Node.js` `C# / WinForms (.NET)` `APIs REST` |
+| ⚙️ Backend | `Python` `Django` `Flask` `Node.js` `C# / .NET 10` `WinForms` `APIs REST` |
 | 🗄️ Datos | `PostgreSQL` `MySQL` `SQLite` `Supabase` `Modelado relacional` |
-| 🧪 Ingeniería | `DDD` `Clean Architecture` `SOLID` `Pruebas unitarias` `Git Flow` |
-| 🛠️ Herramientas | `Git` `GitHub` `VS Code` `Visual Studio` `Figma` `Postman` `Docker` `npm` |
+| 🧪 Ingeniería | `DDD` `Clean Architecture` `SOLID` `Pruebas unitarias (xUnit / Node test runner)` `GitHub Actions` `Git Flow` |
+| 🛠️ Herramientas | `Git` `GitHub` `VS Code` `Visual Studio` `Figma` `Postman` `Docker` `Mermaid` `npm` |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,js,python,django,flask,nodejs,html,css,tailwind,bootstrap,cs,supabase,mysql,postgres,sqlite,docker,git,github,vite,npm,figma,vscode,postman&perline=12" alt="TypeScript, React, JavaScript, Python, Django, Flask, Node.js, HTML, CSS, Tailwind, Bootstrap, C#, Supabase, MySQL, PostgreSQL, SQLite, Docker, Git, GitHub, Vite, npm, Figma, VS Code, Postman" />
+  <img src="https://skillicons.dev/icons?i=ts,react,js,python,django,flask,nodejs,html,css,tailwind,bootstrap,cs,supabase,mysql,postgres,sqlite,docker,git,github,githubactions,vite,npm,figma,vscode,postman&perline=12" alt="TypeScript, React, JavaScript, Python, Django, Flask, Node.js, HTML, CSS, Tailwind, Bootstrap, C#, Supabase, MySQL, PostgreSQL, SQLite, Docker, Git, GitHub, GitHub Actions, Vite, npm, Figma, VS Code, Postman" />
 </p>
 
 ---
